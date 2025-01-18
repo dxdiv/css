@@ -12,7 +12,6 @@ html {
 [class *= "flag"],
 [class *= "lang"],
 [class *= "progress-bar"],
-[style *= "background-image"],
 picture,
 video,
 svg,
